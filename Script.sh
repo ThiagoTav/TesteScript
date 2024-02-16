@@ -14,7 +14,7 @@ echo "Listando os containers Docker em execução..."
 sudo docker ps
 
 echo "Clonando o repositório do InfluxDB Docker Compose..."
-git clone https://github.com/devopsjourney1/influxdb-2-dockercompose.git
+git clone https://github.com/ThiagoTav/TesteScript.git
 
 echo "Entrando no diretório do InfluxDB Docker Compose..."
 cd influxdb-2-dockercompose/
